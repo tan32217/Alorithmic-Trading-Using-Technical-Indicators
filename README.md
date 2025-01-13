@@ -1,6 +1,6 @@
 # Alorithmic-Trading-Using-Technical-Indicators
 
-#Introduction
+# Introduction
 
 Financial markets are volatile and dynamic in nature, due to which algorithmic trading is becoming popular amongst traders in financial markets.
 Algorithmic trading makes use of the speed and data processing advantages that computers have over human traders.  
